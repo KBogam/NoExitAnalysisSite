@@ -1,6 +1,6 @@
 /* Page */
 .page {
-  max-width: 950px;
+  width: min(1400px, calc(100% - 40px));
   margin: 30px auto;
   padding: 32px;
   background: #ffffff;
