@@ -1,0 +1,150 @@
+.symbolism-page {
+  padding: 40px 20px;
+  background: #ffffff;
+}
+
+.symbolism-hero {
+  max-width: 900px;
+  margin: 0 auto 40px;
+  text-align: center;
+}
+
+.symbolism-hero h1 {
+  font-size: 3rem;
+  margin-bottom: 12px;
+  color: #111827;
+}
+
+.symbolism-hero p {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  color: #4b5563;
+}
+
+.symbolism-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.symbol-card {
+  display: flex;
+  gap: 24px;
+  align-items: flex-start;
+
+  background: #ffffff;
+  border-radius: 22px;
+  padding: 24px;
+
+  border-left: 8px solid;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.symbol-image-wrap {
+  position: relative;
+  width: 280px;
+  min-width: 280px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 16px;
+}
+
+.symbol-image-wrap img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.symbol-image-wrap span {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+
+  background: rgba(255, 255, 255, 0.95);
+  padding: 6px 12px;
+
+  border-radius: 999px;
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+
+.symbol-content {
+  flex: 1;
+}
+
+.symbol-content h2 {
+  margin: 0 0 14px;
+  font-size: 1.8rem;
+}
+
+.symbol-content p {
+  margin: 0 0 12px;
+  line-height: 1.7;
+  color: #374151;
+}
+
+.symbol-content strong {
+  color: #111827;
+}
+
+/* Drawing Room */
+
+.symbol1 {
+  border-left-color: #9525eb;
+}
+
+.symbol1 h2,
+.symbol1 .symbol-image-wrap span {
+  color: #9525eb;
+}
+
+/* Locked Door */
+
+.symbol2 {
+  border-left-color: #dc2626;
+}
+
+.symbol2 h2,
+.symbol2 .symbol-image-wrap span {
+  color: #b91c1c;
+}
+
+/* Mirrors */
+
+.symbol3 {
+  border-left-color: #16a34a;
+}
+
+.symbol3 h2,
+.symbol3 .symbol-image-wrap span {
+  color: #15803d;
+}
+
+/* Statue */
+
+.symbol4 {
+  border-left-color: #ca8a04;
+}
+
+.symbol4 h2,
+.symbol4 .symbol-image-wrap span {
+  color: #a16207;
+}
+
+@media (max-width: 850px) {
+  .symbol-card {
+    flex-direction: column;
+  }
+
+  .symbol-image-wrap {
+    width: 100%;
+    min-width: 100%;
+    height: 240px;
+  }
+
+  .symbolism-hero h1 {
+    font-size: 2.4rem;
+  }
+}

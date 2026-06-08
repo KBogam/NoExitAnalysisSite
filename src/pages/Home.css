@@ -1,0 +1,45 @@
+.home-page {
+  background: #ffffff;
+  color: #111827;
+  text-align: center;
+  padding: 45px 20px;
+}
+
+.home-page h1 {
+  font-size: 3rem;
+  margin-bottom: 25px;
+  color: #111827;
+}
+
+.book-cover {
+  width: 230px;
+  max-width: 85%;
+  border-radius: 12px;
+  margin: 10px auto 28px;
+  display: block;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.18);
+}
+
+.home-page h2 {
+  font-size: 1.5rem;
+  margin: 18px 0 10px;
+  color: #1e3a8a;
+}
+
+.home-page p {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.1rem;
+  line-height: 1.75;
+  color: #374151;
+}
+
+@media (max-width: 700px) {
+  .home-page h1 {
+    font-size: 2.3rem;
+  }
+
+  .book-cover {
+    width: 190px;
+  }
+}

@@ -1,0 +1,90 @@
+.timeline-page {
+  background: #ffffff;
+  color: #111827;
+}
+
+.timeline-page h1 {
+  text-align: center;
+  color: #111827;
+  margin-bottom: 30px;
+}
+
+.timeline {
+  max-width: 950px;
+  margin: 30px auto 0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.timeline-event {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 26px;
+  border-radius: 18px;
+  background: #f8fafc;
+  border: 1px solid #dbeafe;
+  border-left: 7px solid #2563eb;
+  box-shadow: 0 8px 22px rgba(37, 99, 235, 0.12);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.timeline-event:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(37, 99, 235, 0.18);
+}
+
+.timeline-event span {
+  width: 58px;
+  height: 58px;
+  min-width: 58px;
+  border-radius: 50%;
+  background: #2563eb;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+  font-size: 1.15rem;
+  flex-shrink: 0;
+}
+
+.timeline-event h2 {
+  margin: 0 0 10px;
+  font-size: 1.45rem;
+  color: #1e3a8a;
+}
+
+.timeline-event p {
+  margin: 0;
+  color: #374151;
+  line-height: 1.7;
+  font-size: 1rem;
+}
+
+.theme-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+@media (max-width: 700px) {
+  .timeline {
+    gap: 18px;
+  }
+
+  .timeline-event {
+    flex-direction: column;
+    padding: 22px;
+  }
+
+  .timeline-event span {
+    width: 50px;
+    height: 50px;
+    min-width: 50px;
+  }
+}
+

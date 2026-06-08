@@ -1,0 +1,116 @@
+/* Page */
+.page {
+  max-width: 950px;
+  margin: 30px auto;
+  padding: 32px;
+  background: #ffffff;
+  color: #111827;
+  border-top: 6px solid #2563eb;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(30, 64, 175, 0.14);
+}
+
+.page h1 {
+  margin: 0 0 24px;
+  text-align: center;
+  color: #111827;
+  font-size: 2.4rem;
+}
+
+.page h2,
+.page h3 {
+  color: #111827;
+}
+
+.page p {
+  font-size: 16px;
+  line-height: 1.65;
+  color: #111827;
+}
+
+/* Home */
+.home-page {
+  text-align: center;
+}
+
+.home-page p {
+  max-width: 750px;
+  margin: 15px auto;
+}
+
+.book-cover {
+  width: 200px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(37, 99, 235, 0.22);
+}
+
+/* Shared cards only for older/basic pages */
+.about-section,
+.author-info,
+.symbol-box,
+.character-row {
+  background: #f8fafc;
+  border: 1px solid #dbeafe;
+  border-left: 6px solid #2563eb;
+  border-radius: 14px;
+  padding: 20px;
+  margin-bottom: 18px;
+}
+
+.author-info ul {
+  line-height: 1.7;
+  color: #111827;
+}
+
+/* Characters */
+.character-row {
+  display: flex;
+  gap: 20px;
+}
+
+.character-label {
+  min-width: 120px;
+  height: fit-content;
+  padding: 12px;
+  border-radius: 10px;
+  background: #dbeafe;
+  color: #111827;
+  font-weight: bold;
+  text-align: center;
+}
+
+.character-row h2,
+.symbol-box h2 {
+  margin-top: 0;
+}
+
+/* Buttons */
+.page button {
+  margin: 5px;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 999px;
+  background: #2563eb;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.page button:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 700px) {
+  .page {
+    margin: 18px;
+    padding: 22px;
+  }
+
+  .character-row {
+    flex-direction: column;
+  }
+}
