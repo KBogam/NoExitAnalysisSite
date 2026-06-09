@@ -8,9 +8,9 @@ function Symbolism() {
       title: 'The Drawing Room',
       image:
         'https://clickamericana.com/wp-content/uploads/Heres-what-a-simple-1940s-style-living-room-makeover-looked-like-1536x1229.jpg',
-      symbol: 'The room where Garcin, Inez, and Estelle are trapped.',
+      symbol: 'The room in Hell where Garcin, Estelle, and Inez are trapped.',
       meaning:
-        'The room symbolizes psychological imprisonment. There are no flames or physical forms of torture, only the constant pressure from the other characters.',
+        'The room symbolizes eternal psychological entrapment. There are no flames or physical forms of torture, only constant tensions between each character.',
       evidence:
         'The characters cannot leave and must spend eternity confronting one another.',
       impact:

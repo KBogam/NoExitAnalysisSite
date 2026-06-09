@@ -12,8 +12,7 @@ function Timeline() {
           <div>
             <h2>Beginning</h2>
             <p>
-              Garcin arrives in a strange room in Hell. He expects torture, but
-              the room looks ordinary.
+              Garcin, Estelle, and Inez each arrive in a strange room, accompanied by a Valet. They expect torture, however, the room seems empty and plain. 
             </p>
           </div>
         </article>
@@ -23,8 +22,8 @@ function Timeline() {
           <div>
             <h2>Rising Action</h2>
             <p>
-              Inez and Estelle arrive. The three characters slowly realize they
-              are meant to punish each other.
+              They try to understand why they were chosen to be put in the room together. As they talk, tensions begin to rise between each character. They each slowly begin to reveal their own backstories, showing exactly how they died and landed up in Hell. As they continue to talk with each other, their hidden flaws in their past lives begin to come to light. Inez realizes that the true torment will come not physically, but from each other's judgment.
+
             </p>
           </div>
         </article>
@@ -34,8 +33,7 @@ function Timeline() {
           <div>
             <h2>Climax</h2>
             <p>
-              Garcin realizes that the real torture is being trapped under the
-              judgment of others: “Hell is other people.”
+              The climax occurs when the door is opened, and Garcin is prompted to make a choice. He is given the option to either leave the room and go somewhere else, or to stay. With Garcin being very eager to leave at first, decides to stay simply due to his extreme fear of being called “cowardly” by Inez. His decision to stay reveals that he is trapped not by the room itself but by other’s judgment on him. 
             </p>
           </div>
         </article>
@@ -45,8 +43,7 @@ function Timeline() {
           <div>
             <h2>Falling Action</h2>
             <p>
-              The door opens, but Garcin stays because he still needs Inez to
-              see him as brave.
+             When the door opens, the characters understand that escaping will never truly fix their internal problems. Each character soon goes back to their natural state of attention seeking, manipulation, and cowardness. They realize that they will always remain the same and emotionally dependent on each other forever.
             </p>
           </div>
         </article>
