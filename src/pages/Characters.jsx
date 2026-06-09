@@ -22,7 +22,7 @@ function Characters() {
         <div>
           <h2>Inez</h2>
           <p>
-  The second prisoner and also the most cruel. She had been a postal clerk and thinks that she is in hell for seducing her friend's wife. Her lover killed them both by leaving the gas on while Inez was asleep. She doesn’t seem to like men, which includes Garcin. However, she finds Estelle very attractive and tries to seduce her too. With her intelligence, she understands the truth of their situation more quickly than the others and forces people to face uncomfortable realities.
+  The second prisoner and also the most cruel. She had been a postal clerk and claims that she is in hell for seducing her friend's wife. She died when her lover left the gas on when she was in the car, killing them both. She doesn’t like men, including Garcin, another character stuck in the room. However, she finds Estelle very attractive and tries to seduce her too. Though she is very controlling and manipulative, she admits her wrongs and accepts her consequences sooner than the other characters do. With her intelligence, she also understands the truth of their situation more quickly than the others and forces them to face uncomfortable realities. 
           </p>
         </div>
       </div>
