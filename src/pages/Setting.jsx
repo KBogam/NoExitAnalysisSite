@@ -58,6 +58,9 @@ The social environment of No Exit is based on early 20th-century European existe
           </div>
         </div>
       </section>
+      <a href="https://www.ebsco.com/research-starters/literature-and-writing/no-exit-analysis-setting" target="_blank" rel="noopener noreferrer">
+    No Exit Analysis: Setting (EBSCO)
+</a>
     </main>
   )
 }

@@ -1,0 +1,56 @@
+.author-page {
+  text-align: center;
+}
+
+.author-image-section {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.author-image {
+  width: 100%;
+  max-width: 650px; /* reduced from 900px */
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+.author-caption {
+  margin-top: 12px;
+  color: #6b7280;
+  font-style: italic;
+  font-size: 0.95rem;
+}
+
+.author-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.author-section {
+  background: white;
+  border-radius: 18px;
+  padding: 28px;
+  border-left: 6px solid #2563eb;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  text-align: center; /* centers all text inside cards */
+}
+
+.author-section h2 {
+  color: #2563eb;
+  margin-bottom: 15px;
+}
+
+.author-section p {
+  line-height: 1.8;
+}
+
+.author-section ul {
+  list-style-position: inside; /* centers bullet lists better */
+  padding-left: 0;
+}
+
+.author-section li {
+  line-height: 1.8;
+}

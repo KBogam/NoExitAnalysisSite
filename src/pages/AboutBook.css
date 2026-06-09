@@ -30,22 +30,32 @@
 }
 
 .about-section {
+  position: relative;
   background: #ffffff;
   border-radius: 18px;
-  padding: 28px;
+  padding: 32px 90px 32px 28px;
   border-left: 6px solid #2563eb;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
 }
 
 .about-section span {
-  display: inline-block;
+  position: absolute;
+  top: 24px;
+  right: 24px;
+
+  width: 46px;
+  height: 46px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
   background: #dbeafe;
   color: #1d4ed8;
-  padding: 6px 12px;
-  border-radius: 999px;
+  border-radius: 50%;
+
   font-size: 0.9rem;
-  font-weight: 700;
-  margin-bottom: 12px;
+  font-weight: 800;
 }
 
 .about-section h2 {
@@ -61,11 +71,20 @@
 }
 
 @media (max-width: 700px) {
+  .about-book-page {
+    padding: 30px 15px;
+  }
+
   .about-hero h1 {
     font-size: 2.4rem;
   }
 
   .about-section {
-    padding: 22px;
+    padding: 24px;
+  }
+
+  .about-section span {
+    position: static;
+    margin-bottom: 14px;
   }
 }

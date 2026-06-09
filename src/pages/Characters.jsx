@@ -11,8 +11,8 @@ function Characters() {
         <div>
           <h2>Garcin</h2>
           <p>
-            Garcin is a journalist who's biggest weakness is guilt and the fear of being judged. He is eager for others
-            to see him as brave, but he is haunted by his actions in his past life where he was ridiculed for being "cowardly".
+            A journalist who's biggest weakness is guilt and the fear of being judged. He is eager for others
+            to see him as brave, but he is haunted by his actions in his past life where he was ridiculed for being "cowardly". He is attracted to Estelle and pursues her throughout the play. 
           </p>
         </div>
       </div>
@@ -22,10 +22,7 @@ function Characters() {
         <div>
           <h2>Inez</h2>
           <p>
-            Inez Serrano is an intelligent and stubborn postal worker who has been sent to hell because of the “cruel” way she treats others
-            Inez is direct, observant, and often lack empathy for others. She understands the truth
-            of their situation more quickly than the others and forces people to
-            face uncomfortable realities.
+  The second prisoner and also the most cruel. She had been a postal clerk and thinks that she is in hell for seducing her friend's wife. Her lover killed them both by leaving the gas on while Inez was asleep. She doesn’t seem to like men, which includes Garcin. However, she finds Estelle very attractive and tries to seduce her too. With her intelligence, she understands the truth of their situation more quickly than the others and forces people to face uncomfortable realities.
           </p>
         </div>
       </div>
@@ -36,8 +33,7 @@ function Characters() {
           <h2>Estelle</h2>
           <p>
            The third and final prisoner who is also the most frightened. 
-           She desperately wants to see her reflection in a mirror and doesn't take accountability for her past actions. 
-           She also seeks validation from others, especially from a male figure like Garcin.
+           She desperately wants to see her reflection in a mirror showing her deep insecurity with herself. Throughout the play, she doesn't take accountability for her past actions, and constantly seeks validation from others. She seeks attention especially from male figures like Garcin. 
           </p>
         </div>
       </div>
@@ -90,6 +86,10 @@ function Characters() {
     </div>
   </div>
 </section>
+
+<a href="https://www.litcharts.com/lit/no-exit/characters" target="_blank" rel="noopener noreferrer">
+    No Exit Character Analysis (LitCharts)
+</a>
     </main>
   )
 }

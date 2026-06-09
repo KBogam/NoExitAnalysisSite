@@ -62,6 +62,9 @@ function Timeline() {
           </div>
         </article>
       </section>
+       <a href="https://www.coursehero.com/lit/No-Exit/plot-summary/" target="_blank" rel="noopener noreferrer">
+    No Exit Plot Summary (Course Hero)
+</a>
     </main>
   )
 }

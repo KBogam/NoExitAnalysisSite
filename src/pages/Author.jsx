@@ -4,11 +4,25 @@ import './Author.css'
 function Author() {
   return (
     <main className="page author-page">
+
       <section className="author-hero">
         <h1>Jean-Paul Sartre</h1>
         <p>
           Philosopher, novelist, playwright, and the leading figure of
           existentialism in the twentieth century.
+        </p>
+      </section>
+
+      <section className="author-image-section">
+        <img
+          src="https://images.yourstory.com/cs/wordpress/2017/06/Jean-Paul-Sartre-1.jpg?mode=crop&crop=faces&ar=16:9&format=auto&w=3840&q=75"
+          alt="Jean-Paul Sartre"
+          className="author-image"
+        />
+
+        <p className="author-caption">
+          Jean-Paul Sartre (1905–1980), French philosopher, novelist, playwright,
+          and author of <i>No Exit</i>.
         </p>
       </section>
 
@@ -18,15 +32,15 @@ function Author() {
           <h2>Biography</h2>
 
           <p>
-Jean-Paul Sartre (born June 21, 1905, Paris, France—died April 15, 1980, Paris) was a French philosopher, novelist, and playwright, best known as the leading exponent of existentialism in the 20th century.
+Jean–Paul Sartre was born on June 21, 1905 in Paris, France. He died on April 15, 1980. He was a French philosopher, novelist, and playwright, most popular for his leading role in existentialism in the 20th century. 
           </p>
 
           <p>
-            Sartre studied at the prestigious École Normale Supérieure in
-            Paris and later worked as a teacher before becoming a full-time
-            writer. During World War II, he served in the French military,
-            was captured in 1940, and spent about a year as a prisoner of war
-            before being released.
+            Sartre studied at the prestigious École Normale Supérieure in Paris
+            and later worked as a teacher before becoming a full-time writer.
+            During World War II, he served in the French military, was captured
+            in 1940, and spent about a year as a prisoner of war before being
+            released.
           </p>
         </article>
 
@@ -35,21 +49,20 @@ Jean-Paul Sartre (born June 21, 1905, Paris, France—died April 15, 1980, Paris
 
           <p>
             Sartre is best known for existentialism, a philosophy that
-            emphasizes freedom, personal responsibility, and individual
-            choice.
+            emphasizes freedom, personal responsibility, and individual choice.
           </p>
 
           <p>
             He believed that people are responsible for creating meaning in
-            their own lives through the decisions they make. Rather than
-            having a predetermined purpose, individuals must define
-            themselves through their actions.
+            their own lives through the decisions they make. Rather than having
+            a predetermined purpose, individuals must define themselves through
+            their actions.
           </p>
 
           <p>
             Sartre also argued that freedom carries responsibility. People
-            cannot blame fate, society, or other people for their choices;
-            they must accept responsibility for the lives they create.
+            cannot blame fate, society, or other people for their choices; they
+            must accept responsibility for the lives they create.
           </p>
         </article>
 
@@ -68,11 +81,11 @@ Jean-Paul Sartre (born June 21, 1905, Paris, France—died April 15, 1980, Paris
           <h2>Interesting Facts</h2>
 
           <ul>
-            <li>He was one of the most famous existentialist thinkers in history.</li>
-            <li>He declined the Nobel Prize in Literature in 1964.</li>
-            <li>He maintained a lifelong intellectual partnership with Simone de Beauvoir.</li>
-            <li>He believed that freedom and responsibility are inseparable.</li>
-            <li>His ideas influenced philosophy, literature, politics, and psychology.</li>
+            <li>Jean-Paul Sartre, a famous philosopher, declined the Nobel Prize, believed in individual freedom, and had a unique relationship with Simone de Beauvoir.</li>
+            <li>He was an active participant in the French Resistance during World War II.</li>
+            <li>Sartre popularized the phrase “Hell is other people.”</li>
+            <li>Towards the end of his life, Jean-Paul Sartre began to describe himself as a "special kind" of anarchist.</li>
+            <li>Sartre authored a seminal work of existentialist fiction, “Nausea.”</li>
           </ul>
         </article>
 
@@ -80,20 +93,14 @@ Jean-Paul Sartre (born June 21, 1905, Paris, France—died April 15, 1980, Paris
           <h2>Legacy</h2>
 
           <p>
-            Sartre's writings continue to influence philosophers, writers,
-            students, and scholars around the world. His exploration of
-            freedom, responsibility, identity, and human relationships
-            remains highly relevant today.
-          </p>
-
-          <p>
-            When he died in 1980, approximately 25,000 people attended his
-            funeral, demonstrating the enormous impact he had on modern
-            thought and culture.
+    Sartre's work continues to influence modern day philosophers, writers, students, and scholars around the globe. His deep dive into freedom, responsibility, identity, and human relationships is still relevant to this day. When he died in 1980, about 25,000 people attended his funeral, showing how big of an impact he had on modern thought and culture.
           </p>
         </article>
-
+<a href="https://philopedia.org/philosophers/jean-paul-sartre/#7-major-philosophical-works" target="_blank" rel="noopener noreferrer">
+    Jean-Paul Sartre's Major Philosophical Works
+</a>
       </section>
+
     </main>
   )
 }
