@@ -36,11 +36,8 @@ Jean–Paul Sartre was born on June 21, 1905 in Paris, France. He died on April 
           </p>
 
           <p>
-            Sartre studied at the prestigious École Normale Supérieure in Paris
-            and later worked as a teacher before becoming a full-time writer.
-            During World War II, he served in the French military, was captured
-            in 1940, and spent about a year as a prisoner of war before being
-            released.
+      Sartre studied at an elite public education institution called “École Normale Supérieure” in Paris. He later worked as a teacher before becoming a full-time writer. When World War II came around, he served in the French military. During the war he was captured in 1940, where he spent about a year as a prisoner of war before being released. 
+
           </p>
         </article>
 

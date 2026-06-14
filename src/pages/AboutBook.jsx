@@ -25,7 +25,9 @@ function AboutBook() {
 
           <h2>Summary</h2>
           <p>
-             The book, <i>No Exit</i>,  is about three different people who after dying, are sent to a room in hell with eachother. These characters being Inez, Garcin, and Estelle, are prepared for the worst, thinking that eternal physical torment awaits them. However, with the room being plain and pretty much harmless, they suspect that the torment may come in a non-physical form, creating an eerie vibe within the room. As the story progresses, the tensions between the characters start to rise as arguments break out constantly. One by one, each character ends up revealing their backstories and past crimes. As they admit to their sins, they begin to understand that their suffering comes from the judgement of one another. By the end of the story, the characters make a chilling discovery that they themselves are each other's punishment, leading to Sartre's famous quote, "hell is other people". 
+             The book <i>"No Exit",</i>  is about three different people who after dying are sent to a room in hell with each other. The characters Inez, Garcin, and Estelle are prepared for the worst, thinking that eternal damnation awaits them in Hell. However, they are shocked when they arrive in an ordinary and seemingly harmless looking room. They suspect that the torment may come in an unexpected form later on, creating a tense vibe within the room. As the characters start interacting with each other, tensions between them start to rise as arguments break out constantly. As the story progresses, they end up confronting and judging each other's present and past actions, creating conflict between one another. One by one, each character ends up revealing their backstories and past crimes. By the end of the story, they begin to realize that their placement together was no accident. Through their interactions, they discover the true purpose of their confinement: to serve as one another's tormentor.
+
+ 
           </p>
         </article>
 
